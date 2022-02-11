@@ -108,6 +108,9 @@ h1 {
 
 /* // Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) { 
+  .btn-custom {
+    margin: 15px 15px;
+  } 
   h1{
     font-size: 5em;
   }
@@ -115,6 +118,9 @@ h1 {
 
 /* // Extra large devices (large desktops, 1200px and up) */
 @media (min-width: 1200px) {
+  .btn-custom {
+    margin: 15px 15px;
+  } 
   h1{
     font-size: 6em;
   }
